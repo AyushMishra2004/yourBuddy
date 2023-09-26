@@ -1,3 +1,14 @@
+NAME: MISHRA AYUSH RAKESH
+
+INSTITUTE: INDIAN INSTITUTE OF TECHNOLOGY PATNA
+
+DEPARTMENT: ELECTRICAL AND ELECTRONICS ENGINEERING
+
+ROLL NO: 2101EE86
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
